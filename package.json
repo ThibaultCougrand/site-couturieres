@@ -1,0 +1,16 @@
+{
+    "name": "projetCouturieres",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "thibault",
+    "contributors": [],
+    "dependencies": {
+        "vue": "^2.5.22"
+    }
+}
